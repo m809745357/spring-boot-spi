@@ -6,13 +6,6 @@
     <dependencies>
         <dependency>
             <groupId>io.lian</groupId>
-            <artifactId>order</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>io.lian</groupId>
             <artifactId>activity-order</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <scope>compile</scope>
