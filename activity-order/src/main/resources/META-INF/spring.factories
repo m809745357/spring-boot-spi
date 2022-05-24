@@ -1,0 +1,2 @@
+io.lian.spi.service.OrderService=\
+  io.lian.spi.service.ActivityOrderServiceImpl
